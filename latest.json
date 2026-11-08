@@ -1,0 +1,8 @@
+{
+ "versionName": "1.0.10",
+ "versionCode": 11,
+ "apk": "apks/JooPay-1.0.10.apk",
+ "sha256": "136e249bb8045a6b81ea43cb5be62793456101b39baab01b154f1af25e71ea6b",
+ "notes": "Device sign-in (custom token) and one-tap updates from the releases repo",
+ "publishedAt": "2026-11-08T10:54:39Z"
+}
